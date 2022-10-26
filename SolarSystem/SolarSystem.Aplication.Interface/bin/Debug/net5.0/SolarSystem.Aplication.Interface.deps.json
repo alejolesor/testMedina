@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SolarSystem.Aplication.Interface/1.0.0": {
+        "dependencies": {
+          "SolarSystem.Domain.Entity": "1.0.0",
+          "SolarSystem.Domain.Interface": "1.0.0"
+        },
+        "runtime": {
+          "SolarSystem.Aplication.Interface.dll": {}
+        }
+      },
+      "SolarSystem.Domain.Entity/1.0.0": {
+        "runtime": {
+          "SolarSystem.Domain.Entity.dll": {}
+        }
+      },
+      "SolarSystem.Domain.Interface/1.0.0": {
+        "runtime": {
+          "SolarSystem.Domain.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolarSystem.Aplication.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolarSystem.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolarSystem.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

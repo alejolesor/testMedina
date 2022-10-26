@@ -1,0 +1,12 @@
+F:\personal\SolarSystem\SolarSystem.Domain.Entity\bin\Debug\net5.0\SolarSystem.Domain.Entity.deps.json
+F:\personal\SolarSystem\SolarSystem.Domain.Entity\bin\Debug\net5.0\SolarSystem.Domain.Entity.dll
+F:\personal\SolarSystem\SolarSystem.Domain.Entity\bin\Debug\net5.0\SolarSystem.Domain.Entity.pdb
+F:\personal\SolarSystem\SolarSystem.Domain.Entity\obj\Debug\net5.0\SolarSystem.Domain.Entity.csproj.AssemblyReference.cache
+F:\personal\SolarSystem\SolarSystem.Domain.Entity\obj\Debug\net5.0\SolarSystem.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\personal\SolarSystem\SolarSystem.Domain.Entity\obj\Debug\net5.0\SolarSystem.Domain.Entity.AssemblyInfoInputs.cache
+F:\personal\SolarSystem\SolarSystem.Domain.Entity\obj\Debug\net5.0\SolarSystem.Domain.Entity.AssemblyInfo.cs
+F:\personal\SolarSystem\SolarSystem.Domain.Entity\obj\Debug\net5.0\SolarSystem.Domain.Entity.csproj.CoreCompileInputs.cache
+F:\personal\SolarSystem\SolarSystem.Domain.Entity\obj\Debug\net5.0\SolarSystem.Domain.Entity.dll
+F:\personal\SolarSystem\SolarSystem.Domain.Entity\obj\Debug\net5.0\refint\SolarSystem.Domain.Entity.dll
+F:\personal\SolarSystem\SolarSystem.Domain.Entity\obj\Debug\net5.0\SolarSystem.Domain.Entity.pdb
+F:\personal\SolarSystem\SolarSystem.Domain.Entity\obj\Debug\net5.0\ref\SolarSystem.Domain.Entity.dll

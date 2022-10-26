@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SolarSystem.Transversal.Common/1.0.0": {
+        "runtime": {
+          "SolarSystem.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolarSystem.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

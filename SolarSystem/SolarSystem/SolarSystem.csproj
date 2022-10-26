@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SolarSystem.Aplication.Interface\SolarSystem.Aplication.Interface.csproj" />
+    <ProjectReference Include="..\SolarSystem.Aplication.Main\SolarSystem.Aplication.Main.csproj" />
+    <ProjectReference Include="..\SolarSystem.Infrastructure.Data\SolarSystem.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\SolarSystem.Infrastucture.Repository\SolarSystem.Infrastucture.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

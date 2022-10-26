@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SolarSystem.Domain.Interface\SolarSystem.Domain.Interface.csproj" />
+    <ProjectReference Include="..\SolarSystem.Infrastructure.Data\SolarSystem.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\SolarSystem.Transversal.Common\SolarSystem.Transversal.Common.csproj" />
+	 <PackageReference Include="Dapper" Version="2.0.123" />
+  </ItemGroup>
+
+
+</Project>
