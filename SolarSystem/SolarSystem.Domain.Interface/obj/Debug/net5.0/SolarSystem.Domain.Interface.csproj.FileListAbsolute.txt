@@ -22,3 +22,6 @@ C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSyste
 C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Interface\obj\Debug\net5.0\refint\SolarSystem.Domain.Interface.dll
 C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Interface\obj\Debug\net5.0\SolarSystem.Domain.Interface.pdb
 C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Interface\obj\Debug\net5.0\ref\SolarSystem.Domain.Interface.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Interface\bin\Debug\net5.0\SolarSystem.Domain.Entity.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Interface\bin\Debug\net5.0\SolarSystem.Domain.Entity.pdb
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Interface\obj\Debug\net5.0\SolarSystem.Domain.Interface.csproj.CopyComplete

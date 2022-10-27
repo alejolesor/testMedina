@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "z+FSruEKOUof9GfIpbsbPVtLhO/5Q2ItvIERpS45XTl/5J6e2ScDFAiO5PlYXA//rehj0XOw1RsM17Hs2rjg4A==",
+  "dgSpecHash": "MkwJT/l5n7eTCF5gJkMRsKZuZj/HTb72u8mMVe9EaeYdHMcXddhZ5bj5Zab0hRr7OSs3yNCpfTrMfsVwSPpE6w==",
   "success": true,
   "projectFilePath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\acastiblanco\\.nuget\\packages\\google.apis.core\\1.57.0\\google.apis.core.1.57.0.nupkg.sha512",
+    "C:\\Users\\acastiblanco\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

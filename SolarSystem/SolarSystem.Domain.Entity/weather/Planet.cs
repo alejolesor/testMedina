@@ -9,11 +9,11 @@ namespace SolarSystem.Domain.Entity.weather
 	public class Planet
 	{
         public string name { get; set; }
-		private float dailyAngleVariation { get; set; }
-		private float distanceToSunInKm { get; set; }
-		private float angle { get; set; }
-		private float xCoordinate { get; set; }
-		private float yCoordinate { get; set; }
+		public float dailyAngleVariation { get; set; }
+		public float distanceToSunInKm { get; set; }
+		public float angle { get; set; }
+		public float xCoordinate { get; set; }
+		public float yCoordinate { get; set; }
 
 		public float getDistanceToSunInKm()
 		{

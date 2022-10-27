@@ -1,4 +1,5 @@
 ﻿using Dapper;
+using SolarSystem.Domain.Entity.weather;
 using SolarSystem.Domain.Interface;
 using SolarSystem.Infrastructure.Data;
 using SolarSystem.Transversal.Common;
@@ -21,6 +22,16 @@ namespace SolarSystem.Infrastucture.Repository
                 var companies = await connection.QueryAsync<Dayweather>(query);
                 return companies.AsList().Count;
             }
+        }
+
+        public void saveDayWeather(DayWeather dayWeather)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public void updateRainPeakDayWeather(DayWeather maxAreaDayWeather)
+        {
+            throw new System.NotImplementedException();
         }
     }
 }

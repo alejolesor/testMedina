@@ -157,7 +157,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Entity\\SolarSystem.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Entity\\SolarSystem.Domain.Entity.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

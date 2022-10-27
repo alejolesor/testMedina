@@ -39,6 +39,9 @@
       "SolarSystem.Domain.Interface/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "SolarSystem.Domain.Entity": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/SolarSystem.Domain.Interface.dll": {}
         },

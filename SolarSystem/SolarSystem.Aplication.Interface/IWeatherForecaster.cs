@@ -9,7 +9,7 @@ namespace SolarSystem.Aplication.Interface
 {
     public interface IWeatherForecaster
     {
-		DayWeather GeneratePredictionWeather(Galaxy galaxy);
+		bool GeneratePredictionWeather();
 
 		DayWeather getDayWithPeakRainfall();
 

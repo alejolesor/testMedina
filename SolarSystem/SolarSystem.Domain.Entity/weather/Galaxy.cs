@@ -8,7 +8,7 @@ namespace SolarSystem.Domain.Entity.weather
 {
 	public class Galaxy
 	{
-		private List<Planet> planets;
+		public List<Planet> planets { get; set; }
 
 		public List<Planet> getPlanets()
 		{

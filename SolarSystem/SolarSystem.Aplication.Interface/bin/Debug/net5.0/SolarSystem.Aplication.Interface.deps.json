@@ -43,6 +43,9 @@
         }
       },
       "SolarSystem.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "SolarSystem.Domain.Entity": "1.0.0"
+        },
         "runtime": {
           "SolarSystem.Domain.Interface.dll": {}
         }

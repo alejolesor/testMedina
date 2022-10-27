@@ -6,10 +6,12 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using SolarSystem.Aplication.Interface;
 using SolarSystem.Aplication.Main;
+using SolarSystem.Domain.Entity.weather;
 using SolarSystem.Domain.Interface;
 using SolarSystem.Infrastructure.Data;
 using SolarSystem.Infrastucture.Repository;
 using SolarSystem.Transversal.Common;
+using System.Collections.Generic;
 
 namespace SolarSystem
 {
@@ -37,8 +39,14 @@ namespace SolarSystem
 
             services.AddScoped<IWeatherForecaster, WeatherForecaster>();
 
+            services.AddScoped<IPredictions, Predictions>();
+
 
             services.AddSingleton<ConnectionFactory>();
+
+
+            services.Configure<Galaxy>(options=> Configuration.GetSection("ConfigPlanets").Bind(options));
+
 
 
         }

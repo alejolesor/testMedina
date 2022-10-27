@@ -145,3 +145,5 @@ C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSyste
 C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem\obj\Debug\net5.0\ref\SolarSystem.dll
 C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem\bin\Debug\net5.0\Google.Apis.Core.dll
 C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
