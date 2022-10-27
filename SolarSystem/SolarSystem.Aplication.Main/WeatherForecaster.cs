@@ -45,7 +45,7 @@ namespace SolarSystem.Aplication.Main
             throw new NotImplementedException();
         }
 
-        public DayWeather predictWeather(Galaxy galaxy)
+        public DayWeather GeneratePredictionWeather(Galaxy galaxy)
         {
             throw new NotImplementedException();
         }

@@ -27,8 +27,15 @@ namespace SolarSystem.Controllers
         {
             DayWeatherResponse weatherResponse = new DayWeatherResponse();
             weatherResponse.setDay(await _weatherForecaster.GetAmountOfDryDays());
-            weatherResponse.weatherName = nameof(Weather.DRY);
+            weatherResponse.weatherName = weatherResponse.weather.ToString();
             return weatherResponse;
+        }
+
+        [HttpPost]
+        public async Task<ActionResult> GenerateConditionsModel()
+        {
+
+            return Ok();
         }
     }
 }

@@ -10,3 +10,15 @@ F:\personal\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\Sol
 F:\personal\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\refint\SolarSystem.Infrastucture.Interface.dll
 F:\personal\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\SolarSystem.Infrastucture.Interface.pdb
 F:\personal\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\ref\SolarSystem.Infrastucture.Interface.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Infrastucture.Interface\bin\Debug\net5.0\SolarSystem.Infrastucture.Interface.deps.json
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Infrastucture.Interface\bin\Debug\net5.0\SolarSystem.Infrastucture.Interface.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Infrastucture.Interface\bin\Debug\net5.0\SolarSystem.Infrastucture.Interface.pdb
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\SolarSystem.Infrastucture.Interface.csproj.AssemblyReference.cache
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\SolarSystem.Infrastucture.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\SolarSystem.Infrastucture.Interface.AssemblyInfoInputs.cache
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\SolarSystem.Infrastucture.Interface.AssemblyInfo.cs
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\SolarSystem.Infrastucture.Interface.csproj.CoreCompileInputs.cache
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\SolarSystem.Infrastucture.Interface.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\refint\SolarSystem.Infrastucture.Interface.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\SolarSystem.Infrastucture.Interface.pdb
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Infrastucture.Interface\obj\Debug\net5.0\ref\SolarSystem.Infrastucture.Interface.dll

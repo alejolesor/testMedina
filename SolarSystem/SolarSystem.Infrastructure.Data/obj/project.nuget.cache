@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OywlSiAMxJJZN0LeMPt/fvAuo7m/0dfLsHMQzZPZH2X7nz4Ng3CTYcLq0owyFWE6bQGIQ0MavWE/F4Ab5Dnxuw==",
+  "dgSpecHash": "RGfItQtRdmPVCgjEg+5+0FyU6gl5Bj9YQvcVwBhLBn/r/yHpoUhT0Zx7lYoN1AjUUhh3IrspVbMylbYaFw0IDg==",
   "success": true,
-  "projectFilePath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj",
+  "projectFilePath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acastiblanco\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\acastiblanco\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",

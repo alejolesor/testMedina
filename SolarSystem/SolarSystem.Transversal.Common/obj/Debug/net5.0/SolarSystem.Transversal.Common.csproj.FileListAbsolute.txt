@@ -22,3 +22,15 @@ F:\personal\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\SolarSys
 F:\personal\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\refint\SolarSystem.Transversal.Common.dll
 F:\personal\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\SolarSystem.Transversal.Common.pdb
 F:\personal\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\ref\SolarSystem.Transversal.Common.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Transversal.Common\bin\Debug\net5.0\SolarSystem.Transversal.Common.deps.json
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Transversal.Common\bin\Debug\net5.0\SolarSystem.Transversal.Common.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Transversal.Common\bin\Debug\net5.0\SolarSystem.Transversal.Common.pdb
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\SolarSystem.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\SolarSystem.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\SolarSystem.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\SolarSystem.Transversal.Common.AssemblyInfo.cs
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\SolarSystem.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\SolarSystem.Transversal.Common.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\refint\SolarSystem.Transversal.Common.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\SolarSystem.Transversal.Common.pdb
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Transversal.Common\obj\Debug\net5.0\ref\SolarSystem.Transversal.Common.dll

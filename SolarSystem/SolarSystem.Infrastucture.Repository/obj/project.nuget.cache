@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "buDdhgVfadxT5yTdhWePuN+toc4v/2q5AogDj/odtDKJqCTG8Vo85F+jwrO4BrJ+knsHQC5KRooKNxk7eWUIfQ==",
+  "dgSpecHash": "zD+3Qmw/oHsDbEMeGDBo5ChWtP1dw0Ygig8YC81O6Tlc4/X7IBMU6rPR6V//+kxRoVeQrcDKQf7MsgMCQ2iGbQ==",
   "success": true,
-  "projectFilePath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Repository\\SolarSystem.Infrastucture.Repository.csproj",
+  "projectFilePath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Repository\\SolarSystem.Infrastucture.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acastiblanco\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\acastiblanco\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

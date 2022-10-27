@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Interface\\SolarSystem.Infrastucture.Interface.csproj": {}
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Interface\\SolarSystem.Infrastucture.Interface.csproj": {}
   },
   "projects": {
-    "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Interface\\SolarSystem.Infrastucture.Interface.csproj": {
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Interface\\SolarSystem.Infrastucture.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Interface\\SolarSystem.Infrastucture.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Interface\\SolarSystem.Infrastucture.Interface.csproj",
         "projectName": "SolarSystem.Infrastucture.Interface",
-        "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Interface\\SolarSystem.Infrastucture.Interface.csproj",
+        "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Interface\\SolarSystem.Infrastucture.Interface.csproj",
         "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-        "outputPath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Interface\\obj\\",
+        "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -52,20 +52,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

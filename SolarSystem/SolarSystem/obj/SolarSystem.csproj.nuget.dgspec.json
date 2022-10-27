@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\personal\\SolarSystem\\SolarSystem\\SolarSystem.csproj": {}
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem\\SolarSystem.csproj": {}
   },
   "projects": {
-    "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj": {
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj",
         "projectName": "SolarSystem.Aplication.Interface",
-        "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj",
+        "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj",
         "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-        "outputPath": "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Interface\\obj\\",
+        "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\personal\\SolarSystem\\SolarSystem.Domain.Entity\\SolarSystem.Domain.Entity.csproj": {
-                "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Entity\\SolarSystem.Domain.Entity.csproj"
+              "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Entity\\SolarSystem.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Entity\\SolarSystem.Domain.Entity.csproj"
               },
-              "F:\\personal\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj": {
-                "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj"
+              "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj": {
+                "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Main\\SolarSystem.Aplication.Main.csproj": {
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Main\\SolarSystem.Aplication.Main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Main\\SolarSystem.Aplication.Main.csproj",
+        "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Main\\SolarSystem.Aplication.Main.csproj",
         "projectName": "SolarSystem.Aplication.Main",
-        "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Main\\SolarSystem.Aplication.Main.csproj",
+        "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Main\\SolarSystem.Aplication.Main.csproj",
         "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-        "outputPath": "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Main\\obj\\",
+        "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -95,8 +95,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj": {
-                "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj"
+              "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj": {
+                "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj"
               }
             }
           }
@@ -129,14 +129,14 @@
         }
       }
     },
-    "F:\\personal\\SolarSystem\\SolarSystem.Domain.Entity\\SolarSystem.Domain.Entity.csproj": {
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Entity\\SolarSystem.Domain.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Entity\\SolarSystem.Domain.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Entity\\SolarSystem.Domain.Entity.csproj",
         "projectName": "SolarSystem.Domain.Entity",
-        "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Entity\\SolarSystem.Domain.Entity.csproj",
+        "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Entity\\SolarSystem.Domain.Entity.csproj",
         "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-        "outputPath": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Entity\\obj\\",
+        "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -167,6 +167,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Google.Apis.Core": {
+              "target": "Package",
+              "version": "[1.57.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -186,14 +192,14 @@
         }
       }
     },
-    "F:\\personal\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj": {
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj",
         "projectName": "SolarSystem.Domain.Interface",
-        "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj",
+        "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj",
         "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-        "outputPath": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Interface\\obj\\",
+        "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -243,14 +249,14 @@
         }
       }
     },
-    "F:\\personal\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj": {
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj",
         "projectName": "SolarSystem.Infrastructure.Data",
-        "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj",
+        "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj",
         "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-        "outputPath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastructure.Data\\obj\\",
+        "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -270,8 +276,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj": {
-                "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj"
+              "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj"
               }
             }
           }
@@ -314,14 +320,14 @@
         }
       }
     },
-    "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Repository\\SolarSystem.Infrastucture.Repository.csproj": {
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Repository\\SolarSystem.Infrastucture.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Repository\\SolarSystem.Infrastucture.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Repository\\SolarSystem.Infrastucture.Repository.csproj",
         "projectName": "SolarSystem.Infrastucture.Repository",
-        "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Repository\\SolarSystem.Infrastucture.Repository.csproj",
+        "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Repository\\SolarSystem.Infrastucture.Repository.csproj",
         "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-        "outputPath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Repository\\obj\\",
+        "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -341,14 +347,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\personal\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj": {
-                "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj"
+              "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj": {
+                "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj"
               },
-              "F:\\personal\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj": {
-                "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj"
+              "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj"
               },
-              "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj": {
-                "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj"
+              "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj"
               }
             }
           }
@@ -387,14 +393,14 @@
         }
       }
     },
-    "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj": {
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj",
+        "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj",
         "projectName": "SolarSystem.Transversal.Common",
-        "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj",
+        "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj",
         "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-        "outputPath": "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\obj\\",
+        "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -435,20 +441,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -458,14 +450,14 @@
         }
       }
     },
-    "F:\\personal\\SolarSystem\\SolarSystem\\SolarSystem.csproj": {
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem\\SolarSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem\\SolarSystem.csproj",
+        "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem\\SolarSystem.csproj",
         "projectName": "SolarSystem",
-        "projectPath": "F:\\personal\\SolarSystem\\SolarSystem\\SolarSystem.csproj",
+        "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem\\SolarSystem.csproj",
         "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-        "outputPath": "F:\\personal\\SolarSystem\\SolarSystem\\obj\\",
+        "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -485,17 +477,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj": {
-                "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj"
+              "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj": {
+                "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Interface\\SolarSystem.Aplication.Interface.csproj"
               },
-              "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Main\\SolarSystem.Aplication.Main.csproj": {
-                "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Aplication.Main\\SolarSystem.Aplication.Main.csproj"
+              "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Main\\SolarSystem.Aplication.Main.csproj": {
+                "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Aplication.Main\\SolarSystem.Aplication.Main.csproj"
               },
-              "F:\\personal\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj": {
-                "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj"
+              "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj"
               },
-              "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Repository\\SolarSystem.Infrastucture.Repository.csproj": {
-                "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Repository\\SolarSystem.Infrastucture.Repository.csproj"
+              "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Repository\\SolarSystem.Infrastucture.Repository.csproj": {
+                "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Repository\\SolarSystem.Infrastucture.Repository.csproj"
               }
             }
           }

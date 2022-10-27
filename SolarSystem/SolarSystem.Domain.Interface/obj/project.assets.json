@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj",
       "projectName": "SolarSystem.Domain.Interface",
-      "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj",
+      "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Interface\\SolarSystem.Domain.Interface.csproj",
       "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-      "outputPath": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Interface\\obj\\",
+      "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

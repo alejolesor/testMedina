@@ -582,11 +582,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj",
+      "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj",
       "projectName": "SolarSystem.Infrastructure.Data",
-      "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj",
+      "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastructure.Data\\SolarSystem.Infrastructure.Data.csproj",
       "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-      "outputPath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastructure.Data\\obj\\",
+      "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastructure.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -606,8 +606,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj": {
-              "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj"
+            "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj": {
+              "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj"
             }
           }
         }

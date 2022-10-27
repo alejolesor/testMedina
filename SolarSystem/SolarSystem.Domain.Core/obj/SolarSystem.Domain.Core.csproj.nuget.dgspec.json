@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\personal\\SolarSystem\\SolarSystem.Domain.Core\\SolarSystem.Domain.Core.csproj": {}
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Core\\SolarSystem.Domain.Core.csproj": {}
   },
   "projects": {
-    "F:\\personal\\SolarSystem\\SolarSystem.Domain.Core\\SolarSystem.Domain.Core.csproj": {
+    "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Core\\SolarSystem.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Core\\SolarSystem.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Core\\SolarSystem.Domain.Core.csproj",
         "projectName": "SolarSystem.Domain.Core",
-        "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Core\\SolarSystem.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Core\\SolarSystem.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-        "outputPath": "F:\\personal\\SolarSystem\\SolarSystem.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

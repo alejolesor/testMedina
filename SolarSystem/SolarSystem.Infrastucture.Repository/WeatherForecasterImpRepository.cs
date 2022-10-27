@@ -18,8 +18,8 @@ namespace SolarSystem.Infrastucture.Repository
             var query = "SELECT COUNT(ID) FROM dayweather WHERE weather = 'DRY'";
             using (var connection = _connectionFactory.GetConnection)
             {
-                var companies = await connection.QueryFirstAsync<Dayweather>(query);
-                return companies.ID;
+                var companies = await connection.QueryAsync<Dayweather>(query);
+                return companies.AsList().Count;
             }
         }
     }

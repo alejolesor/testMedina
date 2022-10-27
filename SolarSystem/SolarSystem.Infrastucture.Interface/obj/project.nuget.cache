@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2azkC4tphUty8NkOvCgTc2zCbTRkG6OruXwkuif3HI3DAXD7dUF0GEIkbMgQoL9qD5CytAoPqhLKwJAkvWqe7A==",
+  "dgSpecHash": "QeJRcO/ecqO+t3qUn1b/RfUhHxbq0bABEIx5ygLHzhFITu6dHt9gR2v8PRT7PPAcdtiyVdXV5+ZPXC3cx0pEdQ==",
   "success": true,
-  "projectFilePath": "F:\\personal\\SolarSystem\\SolarSystem.Infrastucture.Interface\\SolarSystem.Infrastucture.Interface.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\acastiblanco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\acastiblanco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\acastiblanco\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Infrastucture.Interface\\SolarSystem.Infrastucture.Interface.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

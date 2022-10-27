@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj",
+      "projectUniqueName": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj",
       "projectName": "SolarSystem.Transversal.Common",
-      "projectPath": "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj",
+      "projectPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\SolarSystem.Transversal.Common.csproj",
       "packagesPath": "C:\\Users\\acastiblanco\\.nuget\\packages\\",
-      "outputPath": "F:\\personal\\SolarSystem\\SolarSystem.Transversal.Common\\obj\\",
+      "outputPath": "C:\\Users\\acastiblanco\\Documents\\Personal\\projectTest\\solar\\testMedina\\SolarSystem\\SolarSystem.Transversal.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,20 +59,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

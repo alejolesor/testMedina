@@ -10,3 +10,15 @@ F:\personal\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\SolarSystem.Dom
 F:\personal\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\refint\SolarSystem.Domain.Core.dll
 F:\personal\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\SolarSystem.Domain.Core.pdb
 F:\personal\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\ref\SolarSystem.Domain.Core.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Core\bin\Debug\net5.0\SolarSystem.Domain.Core.deps.json
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Core\bin\Debug\net5.0\SolarSystem.Domain.Core.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Core\bin\Debug\net5.0\SolarSystem.Domain.Core.pdb
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\SolarSystem.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\SolarSystem.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\SolarSystem.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\SolarSystem.Domain.Core.AssemblyInfo.cs
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\SolarSystem.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\SolarSystem.Domain.Core.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\refint\SolarSystem.Domain.Core.dll
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\SolarSystem.Domain.Core.pdb
+C:\Users\acastiblanco\Documents\Personal\projectTest\solar\testMedina\SolarSystem\SolarSystem.Domain.Core\obj\Debug\net5.0\ref\SolarSystem.Domain.Core.dll
