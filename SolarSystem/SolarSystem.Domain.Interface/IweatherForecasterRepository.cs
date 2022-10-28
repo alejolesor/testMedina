@@ -11,8 +11,8 @@ namespace SolarSystem.Domain.Interface
     {
         Task<int> GetAmountOfDryDaysAsync();
 
-        void saveDayWeather(DayWeather dayWeather);  //missing implement
+        Task saveDayWeatherAsync(DayWeather dayWeather);  //missing implement
 
-        void updateRainPeakDayWeather(DayWeather maxAreaDayWeather); //missing implement
+        Task updateRainPeakDayWeatherAsync(DayWeather maxAreaDayWeather); //missing implement
     }
 }

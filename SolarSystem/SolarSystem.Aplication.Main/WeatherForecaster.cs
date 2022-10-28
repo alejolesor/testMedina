@@ -72,7 +72,7 @@ namespace SolarSystem.Aplication.Main
                     maxAreaDayWeather = currentDayWeather;
                 }
 
-                _iweatherForecasterRepository.saveDayWeather(currentDayWeather);
+                _iweatherForecasterRepository.saveDayWeatherAsync(currentDayWeather);
                 dayPrediction++;
                 calendar.AddDays(DateTime.Now, 1); //review this part maybe to fix
 
@@ -81,7 +81,7 @@ namespace SolarSystem.Aplication.Main
             }
 
             maxAreaDayWeather.setWeather(Weather.RAINY_PEAK);
-            _iweatherForecasterRepository.updateRainPeakDayWeather(maxAreaDayWeather);
+            _iweatherForecasterRepository.updateRainPeakDayWeatherAsync(maxAreaDayWeather);
 
             return true;
         }

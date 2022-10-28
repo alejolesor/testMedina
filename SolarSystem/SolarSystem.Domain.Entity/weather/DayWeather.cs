@@ -12,7 +12,7 @@ namespace SolarSystem.Domain.Entity.weather
 		private DateTime date;
 		private Weather weather;
 		private float areaTriangle;
-		private long day;
+		private int day;
 
 		public DateTime getDate()
 		{
@@ -54,12 +54,12 @@ namespace SolarSystem.Domain.Entity.weather
 			this.id = id;
 		}
 
-		public long getDay()
+		public int getDay()
 		{
 			return day;
 		}
 
-		public void setDay(long day)
+		public void setDay(int day)
 		{
 			this.day = day;
 		}

@@ -19,19 +19,38 @@ namespace SolarSystem.Infrastucture.Repository
             var query = "SELECT COUNT(ID) FROM dayweather WHERE weather = 'DRY'";
             using (var connection = _connectionFactory.GetConnection)
             {
-                var companies = await connection.QueryAsync<Dayweather>(query);
-                return companies.AsList().Count;
+                var amountDryDays = await connection.QueryAsync<Dayweather>(query);
+                return amountDryDays.AsList().Count;
             }
         }
 
-        public void saveDayWeather(DayWeather dayWeather)
+        public async Task saveDayWeatherAsync(DayWeather dayWeather)
         {
-            throw new System.NotImplementedException();
+            try
+            {
+                var weather = dayWeather.getWeather();
+                var query = $"INSERT INTO [dbo].[dayweather] (WEATHER,AREA_TRIANGLE,DAY) VALUES ( (@WEATHER),(@AREA_TRIANGLE),(@DAY) )";
+                using (var connection = _connectionFactory.GetConnection)
+                {
+                    var dayweathers = connection.Execute(query, new Dayweather { Weather = dayWeather.getWeather().ToString(), Area_Triangle = dayWeather.getAreaTriangle(), Day = dayWeather.getDay()});
+                    return;
+                }
+            }
+            catch (System.Exception ex)
+            {
+                throw;
+            }
+
         }
 
-        public void updateRainPeakDayWeather(DayWeather maxAreaDayWeather)
+        public async Task updateRainPeakDayWeatherAsync(DayWeather maxAreaDayWeather)
         {
-            throw new System.NotImplementedException();
+            var query = $"UPDATE [dbo].[dayweather] SET WEATHER = {maxAreaDayWeather.getWeather()} WHERE ID = {maxAreaDayWeather.getId()}";
+            using (var connection = _connectionFactory.GetConnection)
+            {
+                var rainPeak = await connection.QueryAsync<Dayweather>(query);
+                return;
+            }
         }
     }
 }
