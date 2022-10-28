@@ -32,7 +32,7 @@ namespace SolarSystem.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult> GenerateConditionsModel()
+        public ActionResult GenerateConditionsModel()
         {
             _weatherForecaster.GeneratePredictionWeather();
 
