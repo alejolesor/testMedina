@@ -10,10 +10,10 @@ namespace SolarSystem.Domain.Entity.weather
 {
     public enum Weather
     {
-        [StringValue("DRY")]
-        DRY = 0,
+        DRY,
         RAINY,
         RAINY_PEAK,
-        OPTIMAL
+        OPTIMAL,
+        WITHOUTPREDICTIONS
     }
 }

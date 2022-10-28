@@ -11,17 +11,16 @@ namespace SolarSystem.Aplication.Interface
     {
 		bool GeneratePredictionWeather();
 
-		DayWeather getDayWithPeakRainfall();
+		Task<DayWeather> getDayWithPeakRainfall();
 
 
-		DayWeather getDayWeatherByDate(DateTime dayWeatherDate);
-
-		int getAmountOfRainyDays();
+		Task<int> getAmountOfRainyDays();
 
 		Task<int> GetAmountOfDryDays();
 
 		int getAmountOfOptimalConditionDays();
 
 		DayWeather getDayWeatherByDay(int day);
+
 	}
 }

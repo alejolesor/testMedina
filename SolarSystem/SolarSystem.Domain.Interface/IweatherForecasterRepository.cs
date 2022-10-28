@@ -14,5 +14,13 @@ namespace SolarSystem.Domain.Interface
         Task saveDayWeatherAsync(DayWeather dayWeather);  //missing implement
 
         Task updateRainPeakDayWeatherAsync(DayWeather maxAreaDayWeather); //missing implement
+
+        Task<int> getAmountOfRainyDays();
+
+        Task<DayWeather> getDayWithRainPeakDayWeather();
+
+        int getAmountOfOptimalConditionDays();
+
+        DayWeather getDayWeatherByDay(int dayWeatherDay);
     }
 }

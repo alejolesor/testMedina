@@ -30,27 +30,23 @@ namespace SolarSystem.Aplication.Main
 
         public int getAmountOfOptimalConditionDays()
         {
-            throw new NotImplementedException();
+            return _iweatherForecasterRepository.getAmountOfOptimalConditionDays();
         }
 
-        public int getAmountOfRainyDays()
+        public Task<int> getAmountOfRainyDays()
         {
-            throw new NotImplementedException();
+            return _iweatherForecasterRepository.getAmountOfRainyDays();
         }
 
-        public DayWeather getDayWeatherByDate(DateTime dayWeatherDate)
-        {
-            throw new NotImplementedException();
-        }
 
         public DayWeather getDayWeatherByDay(int day)
         {
-            throw new NotImplementedException();
+            return _iweatherForecasterRepository.getDayWeatherByDay(day);
         }
 
-        public DayWeather getDayWithPeakRainfall()
+        public async Task<DayWeather> getDayWithPeakRainfall()
         {
-            throw new NotImplementedException();
+            return await _iweatherForecasterRepository.getDayWithRainPeakDayWeather();
         }
 
         public bool GeneratePredictionWeather()
@@ -77,7 +73,7 @@ namespace SolarSystem.Aplication.Main
                 calendar.AddDays(DateTime.Now, 1); //review this part maybe to fix
 
                 updateGalaxy(galaxy);
-   
+
             }
 
             maxAreaDayWeather.setWeather(Weather.RAINY_PEAK);

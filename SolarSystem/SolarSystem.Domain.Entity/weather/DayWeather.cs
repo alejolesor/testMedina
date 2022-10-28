@@ -12,7 +12,7 @@ namespace SolarSystem.Domain.Entity.weather
 		private DateTime date;
 		private Weather weather;
 		private float areaTriangle;
-		private int day;
+		public int day;
 
 		public DateTime getDate()
 		{
