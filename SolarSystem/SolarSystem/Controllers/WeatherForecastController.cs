@@ -22,6 +22,13 @@ namespace SolarSystem.Controllers
             _weatherForecaster = weatherForecaster;
         }
 
+        
+        [HttpGet]
+        public async Task<string> Get() //Get
+        {
+            return "Api Running";
+        }
+
         [Route("/GetAmountOfDryDays")]
         [HttpGet]
         public async Task<DayWeatherResponse> GetAmountOfDryDays() //Cuántos períodos de sequía habrá
