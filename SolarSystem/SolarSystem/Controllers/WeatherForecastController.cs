@@ -23,7 +23,7 @@ namespace SolarSystem.Controllers
         }
 
         [HttpGet]
-        public async Task<DayWeatherResponse> GetAmountOfDryDays()
+        public async Task<DayWeatherResponse> GetAmountOfDryDays() //Cuántos períodos de sequía habrá
         {
             DayWeatherResponse weatherResponse = new DayWeatherResponse();
             weatherResponse.setDay(await _weatherForecaster.GetAmountOfDryDays());

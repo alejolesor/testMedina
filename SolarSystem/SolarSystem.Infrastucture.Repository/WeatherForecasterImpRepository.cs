@@ -16,12 +16,21 @@ namespace SolarSystem.Infrastucture.Repository
         }
         public async Task<int> GetAmountOfDryDaysAsync()
         {
-            var query = "SELECT COUNT(ID) FROM dayweather WHERE weather = 'DRY'";
-            using (var connection = _connectionFactory.GetConnection)
+            try
             {
-                var amountDryDays = await connection.QueryAsync<Dayweather>(query);
-                return amountDryDays.AsList().Count;
+                var query = "SELECT COUNT(ID) FROM [dbo].[dayweather] WHERE WEATHER = 'DRY'";
+                using (var connection = _connectionFactory.GetConnection)
+                {
+                    var amountDryDays = connection.Query<int>(query);
+                    return amountDryDays.AsList()[0];
+                }
             }
+            catch (System.Exception ex)
+            {
+
+                throw;
+            }
+
         }
 
         public async Task saveDayWeatherAsync(DayWeather dayWeather)
